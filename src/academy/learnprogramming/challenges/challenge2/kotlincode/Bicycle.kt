@@ -1,4 +1,4 @@
-package academy.learnprogramming.challenge2.kotlincode
+package academy.learnprogramming.challenges.challenge2.kotlincode
 
 open class Bicycle(
         private var cadence: Int,

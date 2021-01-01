@@ -25,5 +25,4 @@ fun main() {
 
     val numbers = listOf(1,2,3,4,5)
     numbers.forEachIndexed { index, number -> println("Number: $number at index: $index")}
-
 }

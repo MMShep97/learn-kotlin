@@ -1,4 +1,4 @@
-package academy.learnprogramming.challenge2.javacode;
+package academy.learnprogramming.challenges.challenge2.javacode;
 
 public class Bicycle {
 

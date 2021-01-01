@@ -1,4 +1,4 @@
-package academy.learnprogramming.challenge2.kotlincode
+package academy.learnprogramming.challenges.challenge2.kotlincode
 
 class MountainBicycle(
         var seatHeight: Int,

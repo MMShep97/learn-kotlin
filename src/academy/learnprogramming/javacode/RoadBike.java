@@ -1,6 +1,6 @@
 package academy.learnprogramming.javacode;
 
-import academy.learnprogramming.challenge2.javacode.Bicycle;
+import academy.learnprogramming.challenges.challenge2.javacode.Bicycle;
 
 public class RoadBike extends Bicycle {
 
