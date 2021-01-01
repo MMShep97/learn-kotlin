@@ -1,8 +1,8 @@
 ﻿# Learning Kotlin
 
-Course Used: https://www.udemy.com/course/kotlin-for-java-developers/
-
-Hy-Vee Path: https://hy-vee.udemy.com/course/kotlin-for-java-developers/
+Course Used: 
+- Normal Path: https://www.udemy.com/course/kotlin-for-java-developers/
+- Hy-Vee Path: https://hy-vee.udemy.com/course/kotlin-for-java-developers/
 
 Main learning points: 
 - Lambda Receivers
