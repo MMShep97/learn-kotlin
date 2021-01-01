@@ -1,6 +1,7 @@
 ﻿# Learning Kotlin
 
 Course Used: https://www.udemy.com/course/kotlin-for-java-developers/
+
 Hy-Vee Path: https://hy-vee.udemy.com/course/kotlin-for-java-developers/
 
 Main learning points: 
